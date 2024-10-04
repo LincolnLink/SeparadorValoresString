@@ -1,0 +1,14 @@
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\bin\Debug\netcoreapp3.1\SeparadorString.exe
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\bin\Debug\netcoreapp3.1\SeparadorString.deps.json
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\bin\Debug\netcoreapp3.1\SeparadorString.runtimeconfig.json
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\bin\Debug\netcoreapp3.1\SeparadorString.runtimeconfig.dev.json
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\bin\Debug\netcoreapp3.1\SeparadorString.dll
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\bin\Debug\netcoreapp3.1\SeparadorString.pdb
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.AssemblyInfoInputs.cache
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.AssemblyInfo.cs
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.csproj.CoreCompileInputs.cache
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.sourcelink.json
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.dll
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.pdb
+P:\Projetos e Estudos\SeparadorValoresString\SeparadorString\obj\Debug\netcoreapp3.1\SeparadorString.genruntimeconfig.cache
